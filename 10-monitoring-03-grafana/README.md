@@ -44,7 +44,7 @@ node_filesystem_avail_bytes{mountpoint="/"}
 1. **High CPU Usage** - если утилизация CPU превышает 80% в течение 5 минут
 2. **High Memory Usage** - если свободной памяти меньше 500 Mb от общей
 3. **High Disk Usage** - если свободного места на диске меньше 10GB
-4. **High Load Average** - если load average превышает количество ядер CPU
+4. **High Load Average** - если load average превышает одно ядро CPU
 
 ![](img/monitoring-grafana-03.png)
 
